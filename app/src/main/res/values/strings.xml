@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spinner_Image_Android</string>
+    <string-array name="images">
+        <item>Tom and Jerry</item>
+        <item>Pikachu</item>
+        <item>Ben 10</item>
+        <item>Doremon</item>
+    </string-array>
+</resources>
